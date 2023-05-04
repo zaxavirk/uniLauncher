@@ -1,0 +1,19 @@
+{
+    "id": "qdxns-popup",
+    "name": "任意位置弹窗，qdxns-popup，根据手指长按位置获取弹出位置。",
+    "version": "1.0.0",
+    "description": "根据手指长按位置获取弹出位置。也可自定义弹出位置。调用方便。引入即用。全端支持。",
+    "keywords": [
+        "popup",
+        "全端",
+        "nvue",
+        "小程序",
+        "弹窗"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
